@@ -6,7 +6,7 @@ TimeTracker is a simple (yet effective!) time tracking program.
 - `npm run build:prod` - Build the Angular app
 
 ## Config
-The default config points to `api.timetracker.team2502.com`. This can easily be changed on Electron by modifying the config path at `~/.timetracker/config.json`.
+The default config points to `api.timetracker.simplyalec.com`. This can easily be changed on Electron by modifying the config path at `~/.timetracker/config.json`.
 
 To change the config for the Angular app, modify the `config.service.ts` file to point to your API instance.
 
