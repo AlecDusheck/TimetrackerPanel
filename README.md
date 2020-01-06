@@ -1,6 +1,8 @@
 # TimeTracker
 TimeTracker is a simple (yet effective!) time tracking program.
 
+TimeTracker was made primarily to manage people in rooms and keep track of volunteer hours.
+
 ## Building
 - `npm run electron:windows` - Build the Electron app for Windows
 - `npm run build:prod` - Build the Angular app
